@@ -23,8 +23,11 @@ Here are some ideas to get you started:
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília.
-  Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">
+  <br>🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília.
+  <br>💡 Fascinada por tecnologia, estou sempre em busca de novos desafios que ampliem meu conhecimento e fortaleçam minhas habilidades.
+  <br>🔧 Gosto de aprender na prática e aplicar o que estudo para desenvolver soluções criativas e funcionais.
+  <br>🚀 Em constante evolução, acredito que a tecnologia tem o poder de transformar realidades, e quero fazer parte disso!
   
 #
 
@@ -43,6 +46,8 @@ Here are some ideas to get you started:
 
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="25" alt="html5 logo"    />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" alt="html5 logo"   />
   <img width="8" />
